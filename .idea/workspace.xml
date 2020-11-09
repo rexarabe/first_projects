@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d07ee552-29fc-42b4-be3f-e2c8f7feb79b" name="Default Changelist" comment="" />
+    <list default="true" id="d07ee552-29fc-42b4-be3f-e2c8f7feb79b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +17,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1k45MEgHQv7yjZIfU5WB4B5uCYz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,6 +30,13 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.idesettings.emmet" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -44,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604946972437</updated>
-      <workItem from="1604946973550" duration="774000" />
+      <workItem from="1604946973550" duration="1849000" />
     </task>
     <servers />
   </component>
@@ -52,6 +66,14 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="525" y="297" width="315" height="207" key="Github.ShareDialog" timestamp="1604947859390">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="525" y="297" width="315" height="207" key="Github.ShareDialog/0.27.1366.741@0.27.1366.741" timestamp="1604947859390" />
+    <state x="449" y="84" width="457" height="633" key="Github.UntrackedFilesDialog" timestamp="1604947873323">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="449" y="84" width="457" height="633" key="Github.UntrackedFilesDialog/0.27.1366.741@0.27.1366.741" timestamp="1604947873323" />
     <state x="172" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1604947628613">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
